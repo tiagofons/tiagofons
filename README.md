@@ -1,4 +1,3 @@
-### Hi, I'm Tiago. 👋
 <h1 align="center"> Hi, I'm Tiago. 👋 </h1>
 
 <div align="center">
