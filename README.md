@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Tiago! <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30></h1>
 
 <div align="center">
-  <a href="https://github.com/TalitaMiguel">
+  <a href="https://github.com/tiagofons">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=TiagoFonseca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFonseca&layout=compact&langs_count=7&theme=dracula"/>
 </div>
